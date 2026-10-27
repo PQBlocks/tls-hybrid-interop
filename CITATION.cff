@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pqblocks-tls-interop"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/PQBlocks/tls-hybrid-interop"
+authors:
+  - name: "The PQBlocks Authors"
+keywords:
+  - post-quantum
+  - pqc
+  - tls
+  - hybrid
+  - rfc-10024
+  - ml-kem
+  - x25519
+  - interop
+abstract: "TLS 1.3 hybrid key exchange (X25519MLKEM768 / RFC 10024) endpoint probe, downgrade detector, and key material validator."
